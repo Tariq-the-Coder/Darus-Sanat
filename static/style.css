@@ -336,6 +336,17 @@ p {
     width: 100%;
     height: auto;
   }
+  .gallery {
+    position: relative;
+    width: 230px !important;
+    height: 130px !important;
+  }
+  .gallery span{
+    transform: rotateY(calc(var(--i) * 45deg)) translateZ(290px) !important;
+  }
+  .overlay-img-title{
+    font-size: 12px !important;
+  }
 }
 
 footer {
