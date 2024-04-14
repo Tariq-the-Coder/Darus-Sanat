@@ -347,6 +347,12 @@ p {
   .overlay-img-title{
     font-size: 12px !important;
   }
+  #video-container iframe{
+    height: 300px !important;
+  }
+  #video-container2 iframe{
+    height: 300px !important;
+  }
 }
 
 footer {
@@ -433,6 +439,9 @@ footer {
   border-radius: 10px;
   overflow: hidden;
   position: relative;
+}
+#video-container iframe{
+  width: 100%;
 }
 
 #video {
