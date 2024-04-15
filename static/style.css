@@ -356,14 +356,14 @@ p {
   #video-container2 iframe{
     height: 300px !important;
   }
-  #video-container{
+  /* #video-container{
     margin-left: 0.5rem !important;
     margin-right: 0.5rem !important;
   }
   #video-container2{
     margin-left: 0.5rem !important;
     margin-right: 0.5rem !important;
-  }
+  } */
   #admissionform iframe{
     width: 100% !important;
   }
