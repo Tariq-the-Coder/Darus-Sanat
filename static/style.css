@@ -10,7 +10,7 @@
 }
 
 .first-carousel {
-  background-color: #eeeff3;
+  background-color: #f1f1f1;
   height: -webkit-fill-available;
 }
 
@@ -117,7 +117,7 @@
   font-family: "Rubik", sans-serif;
 }
 .main-logo {
-  width: 5rem;
+  width: 4.2rem;
   border-radius: 3rem;
 }
 
@@ -291,7 +291,10 @@ p {
     margin-top: auto;
     padding-bottom: auto;
   }
+
 }
+
+
 
 @media (max-width: 779.98px) {
   .carousel-item {
@@ -426,7 +429,7 @@ footer {
 
 #video-container {
   max-width: 800px;
-  margin: 5rem auto;
+  margin: 5rem 0.5rem;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   overflow: hidden;
@@ -434,7 +437,7 @@ footer {
 }
 #video-container2 {
   max-width: 800px;
-  margin: 5rem auto;
+  margin: 5rem 0.5rem;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   overflow: hidden;
