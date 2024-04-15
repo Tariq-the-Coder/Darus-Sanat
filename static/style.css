@@ -345,7 +345,7 @@ p {
     height: 130px !important;
   }
   .gallery span{
-    transform: rotateY(calc(var(--i) * 45deg)) translateZ(290px) !important;
+    transform: rotateY(calc(var(--i) * 45deg)) translateZ(285px) !important;
   }
   .overlay-img-title{
     font-size: 12px !important;
@@ -363,6 +363,13 @@ p {
   #video-container2{
     margin-left: 0.5rem !important;
     margin-right: 0.5rem !important;
+  }
+  #admissionform iframe{
+    width: 100% !important;
+  }
+  .contactus iframe{
+    width: 100% !important;
+    overflow: hidden;
   }
 }
 
