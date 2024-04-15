@@ -356,6 +356,14 @@ p {
   #video-container2 iframe{
     height: 300px !important;
   }
+  #video-container{
+    margin-left: 0.5rem !important;
+    margin-right: 0.5rem !important;
+  }
+  #video-container2{
+    margin-left: 0.5rem !important;
+    margin-right: 0.5rem !important;
+  }
 }
 
 footer {
@@ -429,7 +437,7 @@ footer {
 
 #video-container {
   max-width: 800px;
-  margin: 5rem 0.5rem;
+  margin: 5rem auto;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   overflow: hidden;
@@ -437,7 +445,7 @@ footer {
 }
 #video-container2 {
   max-width: 800px;
-  margin: 5rem 0.5rem;
+  margin: 5rem auto;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   overflow: hidden;
